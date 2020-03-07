@@ -1,0 +1,8 @@
+monkeys
+pigs
+goats
+cats
+dogs
+sheep
+horses
+ducks
